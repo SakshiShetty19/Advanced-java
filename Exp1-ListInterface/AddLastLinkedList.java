@@ -3,7 +3,7 @@
  */
 package listInterface;
 import java.util.*;
-public class add_Last {
+public class AddLastLinkedList {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
